@@ -1,1 +1,1 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xGiR_NUwAE0/0.jpg)](https://www.youtube.com/watch?v=ECm_kh_VYR4)
+[![IMAGE ALT TEXT HERE]([https://img.youtube.com/vi/xGiR_NUwAE0/0.jpg](https://i9.ytimg.com/vi/ECm_kh_VYR4/mqdefault.jpg?sqp=CMT4trIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgUChyMA8=&rs=AOn4CLAI06Zrzvhcorku7D52P4M6VWwR7w))](https://www.youtube.com/watch?v=ECm_kh_VYR4)
