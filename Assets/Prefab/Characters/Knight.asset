@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba9e3ea0bcb5139409085d280c57496b, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  name: Knight
+  level: 0
+  maxLevel: 10
+  health: 6
+  defend: 6
+  speedMovement: 4.5
+  meleeDamage: 5
+  rangeDamage: 5
+  defaultRightHand: {fileID: 8096350183495130598, guid: 498ddd2a20f6c234195225dd312d6631,
+    type: 3}
+  defaultLeftHand: {fileID: 6605639355376501094, guid: 1225800d5baba1b4b954d2f77e3855d4,
+    type: 3}
+  upgradedRightHand: {fileID: 1542824471267389270, guid: 13f7f9affecb1384cb8729a2044b749c,
+    type: 3}
+  upgradedLeftHand: {fileID: 8711874651530189261, guid: bd0cf24d604a313468fe4eada207ab65,
+    type: 3}
+  defaultRangeWeapon: {fileID: 5818312095434287340, guid: 6e84a660ab58d5144b6ac7e00e9b9675,
+    type: 3}
+  upgradedRangeWeapon: {fileID: 5818312095434287340, guid: 6e84a660ab58d5144b6ac7e00e9b9675,
+    type: 3}
+  healthModifier:
+  - 1
+  - 1
+  - 1
+  - 2
+  - 2.5
+  - 1
+  - 1
+  - 1.5
+  - 1
+  - 1
+  - 1
+  defendModifier:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  spdMoveModifier:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  meleeDamageModifier:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  rangeDamageModifier:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  price: 11
+  priceInCoin: 0
+  isBuyed: 1
+  isUpgradeToMax: 0
+  upgradePrice: 0a0000000a00000028000000320000003200000032000000640000007d00000096000000c800000000000000

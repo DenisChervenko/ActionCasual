@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba9e3ea0bcb5139409085d280c57496b, type: 3}
+  m_Name: Rogue
+  m_EditorClassIdentifier: 
+  name: Rogue
+  level: 0
+  maxLevel: 20
+  health: 10
+  defend: 2
+  speedMovement: 5
+  meleeDamage: 3
+  rangeDamage: 10
+  defaultRightHand: {fileID: 6662388304605440364, guid: 55e2ad3740e8f4a4fbe1fadfef4afe6b,
+    type: 3}
+  defaultLeftHand: {fileID: 6662388304605440364, guid: 55e2ad3740e8f4a4fbe1fadfef4afe6b,
+    type: 3}
+  upgradedRightHand: {fileID: -5523262971497008226, guid: fb6b768df6648904094572aeb3d279f3,
+    type: 3}
+  upgradedLeftHand: {fileID: -5523262971497008226, guid: fb6b768df6648904094572aeb3d279f3,
+    type: 3}
+  defaultRangeWeapon: {fileID: 7199778869094175180, guid: 6e2a001a9e09b5848aecf7f3020efed5,
+    type: 3}
+  upgradedRangeWeapon: {fileID: -2942952999338103716, guid: aea68d9ca243d8b468fa250e53cac732,
+    type: 3}
+  healthModifier:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  defendModifier:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 2
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  spdMoveModifier:
+  - 0.5
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  meleeDamageModifier:
+  - 1
+  - 0
+  - 2
+  - 0
+  - 3
+  - 0
+  - 2
+  - 0
+  - 0
+  - 2
+  - 0
+  rangeDamageModifier:
+  - 1
+  - 2
+  - 1
+  - 2
+  - 2
+  - 2
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  price: 50
+  priceInCoin: 0
+  isBuyed: 0
+  isUpgradeToMax: 0
+  upgradePrice: 0a000000140000001e000000280000003200000064000000c8000000fa0000002c0100005e01000090010000c2010000f4010000e8030000d0070000b80b000094110000f81100005c120000c012000000000000
